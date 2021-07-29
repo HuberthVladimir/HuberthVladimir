@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Huberth Vladimir
 - 🔭 I’m currently working on Front End
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently studying React and Typescript
 
 <hr>
 
