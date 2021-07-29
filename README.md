@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Huberth Vladimir and 🔭 i'm currently working on React
 
 <div align="center">
   <a href="https://github.com/huberthvladimir">
